@@ -128,3 +128,12 @@ nav{
         margin-right: 40px
     }
 }
+
+.contacto{
+    background-color: whitesmoke;
+    max-width: 950px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    border-radius: 5%;
+    border: solid 2px black;
+}
